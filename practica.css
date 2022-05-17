@@ -1,3 +1,13 @@
+body {
+  background-color: rgb(145, 255, 112);
+  color: rgb(67, 255, 249);
+}
 
+.header {
+  background-color: rgb(0, 0, 0);
+}
+.header span {
+  color: rgba(240, 47, 101, 0.667);
+}
 
 /*# sourceMappingURL=practica.css.map */
