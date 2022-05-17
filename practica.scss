@@ -1,0 +1,17 @@
+$color-fondo:rgb(145, 255, 112);
+$color-letra-primario:rgba(240, 47, 101, 0.667);
+$letra-titulo:rgb(67, 255, 249);
+$color-fondo-secundario:rgb(0, 0, 0);
+
+body{
+    background-color: $color-fondo;
+    color: $letra-titulo;
+}
+
+.header{
+    background-color: $color-fondo-secundario;
+   
+    span{
+        color: $color-letra-primario;
+    }
+}
